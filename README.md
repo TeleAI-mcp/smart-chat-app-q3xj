@@ -1,2 +1,3 @@
-# smart-chat-app-q3xj
-SaaS product repository with automated issue commenting
+# Smart Chat App Q3Xj
+
+Automated issue comment bot repository.
